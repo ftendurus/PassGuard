@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/11619f77da3d97674e07f28a83771b50/nuget-populate.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/8bb2f9ad46e53593e7b6a25983124cf0/nuget-populate-complete.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-build.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-configure.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-copyfile.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-download.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-install.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-mkdir.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-patch.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-test.rule
+C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4651843de67227e64e2090ab22bfe294/nuget-populate-update.rule

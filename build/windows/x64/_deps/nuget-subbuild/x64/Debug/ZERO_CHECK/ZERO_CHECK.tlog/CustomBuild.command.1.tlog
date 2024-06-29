@@ -1,0 +1,10 @@
+^C:\PROJECTS\PassGuard\BUILD\WINDOWS\X64\_DEPS\NUGET-SUBBUILD\CMAKEFILES\11619F77DA3D97674E07F28A83771B50\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild -BC:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Projects/PassGuard/build/windows/x64/_deps/nuget-subbuild/nuget-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

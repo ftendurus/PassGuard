@@ -1,0 +1,14 @@
+com.davidmartos96.sqflite_sqlcipher-pngs-0 C:\Projects\PassGuard\build\sqflite_sqlcipher\generated\res\pngs\release
+com.davidmartos96.sqflite_sqlcipher-resValues-1 C:\Projects\PassGuard\build\sqflite_sqlcipher\generated\res\resValues\release
+com.davidmartos96.sqflite_sqlcipher-rs-2 C:\Projects\PassGuard\build\sqflite_sqlcipher\generated\res\rs\release
+com.davidmartos96.sqflite_sqlcipher-mergeReleaseResources-3 C:\Projects\PassGuard\build\sqflite_sqlcipher\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.davidmartos96.sqflite_sqlcipher-mergeReleaseResources-4 C:\Projects\PassGuard\build\sqflite_sqlcipher\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.davidmartos96.sqflite_sqlcipher-merged_res-5 C:\Projects\PassGuard\build\sqflite_sqlcipher\intermediates\merged_res\release
+com.davidmartos96.sqflite_sqlcipher-jetified-annotation-experimental-1.1.0-6 C:\Users\ftend\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+com.davidmartos96.sqflite_sqlcipher-core-1.6.0-7 C:\Users\ftend\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+com.davidmartos96.sqflite_sqlcipher-jetified-window-1.0.0-beta04-8 C:\Users\ftend\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+com.davidmartos96.sqflite_sqlcipher-jetified-window-java-1.0.0-beta04-9 C:\Users\ftend\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+com.davidmartos96.sqflite_sqlcipher-jetified-sqlcipher-android-4.5.7-10 C:\Users\ftend\.gradle\caches\transforms-3\e9b0f9264b912ea1382d0cffa7def273\transformed\jetified-sqlcipher-android-4.5.7\res
+com.davidmartos96.sqflite_sqlcipher-sqlite-2.3.1-11 C:\Users\ftend\.gradle\caches\transforms-3\fd1a60802b027033cbbb0bd9a1332429\transformed\sqlite-2.3.1\res
+com.davidmartos96.sqflite_sqlcipher-main-12 C:\Users\ftend\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_sqlcipher-3.1.0+1\android\src\main\res
+com.davidmartos96.sqflite_sqlcipher-release-13 C:\Users\ftend\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_sqlcipher-3.1.0+1\android\src\release\res

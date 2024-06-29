@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.davidmartos96.sqflite_sqlcipher-merged_res-4:/drawable/notification_tile_bg.xml",
+        "source": "com.davidmartos96.sqflite_sqlcipher-core-1.6.0-6:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.davidmartos96.sqflite_sqlcipher-merged_res-4:/drawable/notification_bg_low.xml",
+        "source": "com.davidmartos96.sqflite_sqlcipher-core-1.6.0-6:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.davidmartos96.sqflite_sqlcipher-merged_res-4:/drawable/notification_icon_background.xml",
+        "source": "com.davidmartos96.sqflite_sqlcipher-core-1.6.0-6:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.davidmartos96.sqflite_sqlcipher-merged_res-4:/drawable/notification_bg.xml",
+        "source": "com.davidmartos96.sqflite_sqlcipher-core-1.6.0-6:/drawable/notification_bg.xml"
+    }
+]

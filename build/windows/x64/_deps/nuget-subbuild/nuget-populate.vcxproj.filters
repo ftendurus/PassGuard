@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\4651843de67227e64e2090ab22bfe294\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\8bb2f9ad46e53593e7b6a25983124cf0\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\11619f77da3d97674e07f28a83771b50\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\PassGuard\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C84DDEF9-EC12-3F54-9DC3-C8C1311D60E2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\PassGuard\build\windows\x64\CMakeFiles\dcf93aa05a4b62bbed4da910669dafe9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7A961D8F-D9ED-3FA6-AAE8-E6A8CABBA091}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
